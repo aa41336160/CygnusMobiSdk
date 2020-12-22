@@ -1,1 +1,1 @@
-# CygnusMobiSdk
+用于微克海外2.0
